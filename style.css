@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+}
+.season{
+    position: absolute;
+    margin-top: 28.85vw;
+    right: 0;
+    width: 23.05vw;
+}
+.nrmlBooking{
+    position: absolute;
+    width: 100vw;
+    top: 80vw;
+}
+.sTicket{
+    position: absolute;
+    height: 12.5vw;
+    width: 32vw;
+    top: 51vw;
+    left: 67vw;
+}
